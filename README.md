@@ -9,16 +9,16 @@ AI 머신러닝 및 딥러닝 학습 자료입니다.
 * KNN을 이용한 손글씨 인식 및 분류
 <br>
 <img src="./images/HW2.png" width="50%" height="50%"/>
-<br><br>
+<br><br><br><br>
 
 * k-means를 이용한 뇌 MRI segmentation
 <br>
 <img src="./images/HW3-1.png" width="50%" height="50%"/>
 <img src="./images/HW3-2.png" width="50%" height="50%"/>
 <img src="./images/HW3-3.png" width="50%" height="50%"/>
-<br><br>
+<br><br><br><br>
 
 * CNN을 이용한 Fashion 분류
 <br>
 <img src="./images/HW4.png" width="50%" height="50%"/>
-<br><br>
+<br><br><br><br>
