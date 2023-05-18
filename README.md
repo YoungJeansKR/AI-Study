@@ -22,3 +22,9 @@ AI 머신러닝 및 딥러닝 학습 자료입니다.
 <br>
 <img src="./images/HW4.png" width="50%" height="50%"/>
 <br><br><br><br>
+
+* GAN을 이용한 Mnist 손글씨 이미지 생성
+<br>
+<img src="./images/GAN.png" width="50%" height="50%"/>
+<br><br><br><br>
+  
