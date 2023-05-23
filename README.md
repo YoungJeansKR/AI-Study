@@ -4,13 +4,13 @@ AI 머신러닝 및 딥러닝 학습 자료입니다.
 기초적인 Linear_Regression부터 딥러닝 심화학습(GAN, 강화학습)까지 업로드 하겠습니다.
 <br><br><br><br>
 
-KNN을 이용한 손글씨 인식 및 분류
+## KNN을 이용한 손글씨 인식 및 분류
 -------------
 <br>
 <img src="./images/HW2.png" width="30%" height="30%"/>
 <br><br><br><br>
 
-k-means를 이용한 뇌 MRI Image Segmentation
+## k-means를 이용한 뇌 MRI Image Segmentation
 -------------
 <br>
 <img src="./images/HW3-1.png" width="30%" height="30%"/>
