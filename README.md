@@ -17,24 +17,30 @@ KNN을 이용한 손글씨 인식 with PCA
 -------------
 <br>
 <p align="left">
-  <img src="./images/HW2-1.png" width="30%" height="30%"/>
-  <img src="./images/HW3-1.png" width="30%" height="30%"/>
+  <img src="./images/HW2-1.png" width="40%" height="40%"/>
+  <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-  <img src="./images/HW2-2.png" width="30%" height="30%"/>
-  <img src="./images/HW3-2.png" width="30%" height="30%"/>
+  <img src="./images/HW2-2.png" width="40%" height="40%"/>
+  <img src="./images/HW3-2.png" width="40%" height="40%"/>
 </p>
 <br><br><br><br>
 
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
 <br>
-<img src="./images/HW4-1.png" width="30%" height="30%"/>
-<img src="./images/HW4-2.png" width="30%" height="30%"/>
-<img src="./images/HW4-3.png" width="30%" height="30%"/>
-<img src="./images/HW4-4.png" width="30%" height="30%"/>
-<img src="./images/HW4-5.png" width="30%" height="30%"/>
-<img src="./images/HW4-6.png" width="30%" height="30%"/>
+<p align="left">
+  <img src="./images/HW4-1.png" width="30%" height="30%"/>
+  <img src="./images/HW4-2.png" width="30%" height="30%"/>
+</p>
+<p align="left">
+  <img src="./images/HW4-3.png" width="30%" height="30%"/>
+  <img src="./images/HW4-5.png" width="30%" height="30%"/>
+</p>
+<p align="left">
+  <img src="./images/HW4-4.png" width="30%" height="30%"/>
+  <img src="./images/HW4-6.png" width="30%" height="30%"/>
+</p>
 <br><br><br><br>
 
 CNN을 이용한 Fashion MNIST Image 분류
@@ -47,6 +53,6 @@ CNN을 이용한 Fashion MNIST Image 분류
 GAN을 이용한 MNIST 손글씨 Image 생성
 -------------
 <br>
-<img src="./images/GAN.png" width="30%" height="30%"/>
+<img src="./images/GAN.png" width="40%" height="40%"/>
 <br><br><br><br>
   
