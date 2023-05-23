@@ -9,8 +9,11 @@ Linear Regreeion을 이용한 당뇨병 예측
 <br>
 <img src="./images/HW1-1.png" width="30%" height="30%"/>
 <img src="./images/HW1-2.png" width="30%" height="30%"/>
-!["./images/HW1-2.png"]("./images/HW1-2.png") |!["./images/HW1-2.png"]("./images/HW1-2.png")
---- | --- | 
+<p align="center">
+  <img src="./images/HW1-1.png" width="30%" height="30%"/>
+  <img src="./images/HW1-2.png" width="30%" height="30%"/>
+  <figcaption align="center">2개 이미지 띄우기</figcaption>
+</p>
 <br><br><br><br>
 
 KNN을 이용한 손글씨 인식 with PCA
