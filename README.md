@@ -1,7 +1,7 @@
 # AI-Study
 AI 머신러닝 및 딥러닝 학습 자료입니다.
 <br><br>
-기초적인 Linear_Regression부터 딥러닝 심화학습(GAN, 강화학습)까지 업로드 하겠습니다.
+기초 머신러닝 Linear_Regression부터 딥러닝 심화학습까지 업로드 하겠습니다.
 <br><br><br><br>
 
 Linear Regreeion을 이용한 당뇨병 예측
@@ -21,8 +21,8 @@ KNN을 이용한 손글씨 인식 with PCA
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-  <img src="./images/HW2-2.png" width="40%" height="40%"/>
-  <img src="./images/HW3-2.png" width="40%" height="40%"/>
+  <img src="./images/HW2-2.png" width="35%" height="50"/>
+  <img src="./images/HW3-2.png" width="35%" height="50"/>
 </p>
 <br><br><br><br>
 
