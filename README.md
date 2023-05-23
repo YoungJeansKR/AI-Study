@@ -7,7 +7,10 @@ AI 머신러닝 및 딥러닝 학습 자료입니다.
 Linear Regreeion을 이용한 당뇨병 예측
 -------------
 <br>
-<img src="./images/HW1-1.png" width="30%" height="30%"/> <img src="./images/HW1-2.png" width="30%" height="30%"/>
+<figure class="half">
+    <img src="./images/HW1-1.png" width="30%" height="30%"/>
+    <img src="./images/HW1-2.png" width="30%" height="30%"/>
+figure>
 <br><br><br><br>
 
 KNN을 이용한 손글씨 인식 및 분류
