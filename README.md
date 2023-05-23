@@ -16,10 +16,10 @@ Linear Regreeion을 이용한 당뇨병 예측
 KNN을 이용한 손글씨 인식 with PCA
 -------------
 <br>
-<p align="left">
+<!-- <p align="left">
   <img src="./images/HW2-1.png" width="40%" height="40%"/>
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
-</p>
+</p> -->
 <p align="left">
   <img src="./images/HW2-2.png" width="40%" height="40%"/>
   <img src="./images/HW3-2.png" width="40%" height="40%"/>
