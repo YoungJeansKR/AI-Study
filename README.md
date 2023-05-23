@@ -10,7 +10,7 @@ Linear Regreeion을 이용한 당뇨병 예측
 <figure class="half">
     <img src="./images/HW1-1.png" width="30%" height="30%"/>
     <img src="./images/HW1-2.png" width="30%" height="30%"/>
-<figure>
+</figure>
 <br><br><br><br>
 
 KNN을 이용한 손글씨 인식 및 분류
