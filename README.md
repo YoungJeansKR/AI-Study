@@ -8,7 +8,6 @@ AI 머신러닝 및 딥러닝 학습 자료입니다.
 <br><br>
 
 KNN을 이용한 손글씨 인식 및 분류
-
 -------------
 <br>
 <img src="./images/HW2.png" width="50%" height="50%"/>
