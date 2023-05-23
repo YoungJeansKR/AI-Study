@@ -9,7 +9,7 @@ Linear Regreeion을 이용한 당뇨병 예측
 <br>
 <img src="./images/HW1-1.png" width="30%" height="30%"/>
 <img src="./images/HW1-2.png" width="30%" height="30%"/>
-![image.jpg1]("./images/HW1-2.png") |![image.jpg2]("./images/HW1-2.png")
+!["./images/HW1-2.png"]("./images/HW1-2.png") |!["./images/HW1-2.png"]("./images/HW1-2.png")
 --- | --- | 
 <br><br><br><br>
 
