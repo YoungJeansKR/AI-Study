@@ -8,18 +8,22 @@ Linear Regreeion을 이용한 당뇨병 예측
 -------------
 <br>
 <p align="left">
-  <img src="./images/HW1-1.png" width="30%" height="30%"/>
-  <img src="./images/HW1-2.png" width="30%" height="30%"/>
+  <img src="./images/HW1-1.png" width="40%" height="40%"/>
+  <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
 <br><br><br><br>
 
 KNN을 이용한 손글씨 인식 with PCA
 -------------
 <br>
-<img src="./images/HW2-1.png" width="30%" height="30%"/>
-<img src="./images/HW2-2.png" width="30%" height="30%"/>
-<img src="./images/HW3-1.png" width="30%" height="30%"/>
-<img src="./images/HW3-2.png" width="30%" height="30%"/>
+<p align="left">
+  <img src="./images/HW2-1.png" width="30%" height="30%"/>
+  <img src="./images/HW3-1.png" width="30%" height="30%"/>
+</p>
+<p align="left">
+  <img src="./images/HW2-2.png" width="30%" height="30%"/>
+  <img src="./images/HW3-2.png" width="30%" height="30%"/>
+</p>
 <br><br><br><br>
 
 K-Means를 이용한 뇌 MRI Image Segmentation
