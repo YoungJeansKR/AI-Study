@@ -17,7 +17,7 @@ KNN을 이용한 손글씨 인식 with PCA
 -------------
 
 <br>
-  - Training Data: 50000 Test Date: 10000
+  - Training Data: 50000 Test Data: 10000
   - K = 5
 <br>
 
@@ -56,6 +56,8 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 CNN MNIST Data Label Shuffle
 -------------
 <br>
+- Training Data: 60000 Test Data: 10000
+<br>
 <img src="./images/HW6-1.png" width="40%" height="40%"/>
 <img src="./images/HW6-2.png" width="40%" height="40%"/>
 <br><br><br>
@@ -74,7 +76,7 @@ GAN을 이용한 손글씨 Image 생성
 -------------
 
 <br>
-- Training Data: 60000 Test Date: 10000
+- Training Data: 60000 Test Data: 10000
 <br>
 
 <img src="./images/HW8-1.png" width="40%" height="40%"/>
