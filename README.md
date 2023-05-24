@@ -16,6 +16,8 @@ Linear Regression을 이용한 당뇨병 예측
 KNN을 이용한 손글씨 인식 with PCA
 -------------
 <br>
+* Training Data: 50000　Test Date: 10000
+* K = 5
 <p align="left">
   <img src="./images/HW2-1.png" width="40%" height="40%"/>　　　
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
@@ -24,11 +26,14 @@ KNN을 이용한 손글씨 인식 with PCA
 　<img src="./images/HW2-2.png" width="37%" height="45"/>　　　　　　
   <img src="./images/HW3-2.png" width="37%" height="45"/>
 </p>
+KNN VS PCA 차원축소
+run time, Accuracy 차이 비교 -> 유의미한 결과 도출
 <br><br><br>
 
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
 <br>
+* K = 4(Cluster 개수 = 4)
 <p align="left">
   <img src="./images/HW4-1.png" width="30%" height="30%"/>
   <img src="./images/HW4-2.png" width="30%" height="30%"/>
