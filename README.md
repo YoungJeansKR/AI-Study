@@ -43,6 +43,11 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 </p>
 <br><br><br>
 
+Transfer Learning
+-------------
+<br>
+<br><br><br>
+
 GAN을 이용한 손글씨 Image 생성
 -------------
 <br>
