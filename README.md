@@ -11,20 +11,20 @@ Linear Regression을 이용한 당뇨병 예측
   <img src="./images/HW1-1.png" width="40%" height="40%"/>
   <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
-<br><br><br><br>
+<br><br><br>
 
 KNN을 이용한 손글씨 인식 with PCA
 -------------
 <br>
 <p align="left">
-  <img src="./images/HW2-1.png" width="40%" height="40%"/>
+  <img src="./images/HW2-1.png" width="40%" height="40%"/>　
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-  <img src="./images/HW2-2.png" width="40%" height="50"/>　　
-  <img src="./images/HW3-2.png" width="40%" height="50"/>
+  <img src="./images/HW2-2.png" width="45%" height="50"/>　　
+  <img src="./images/HW3-2.png" width="45%" height="50"/>
 </p>
-<br><br><br><br>
+<br><br><br>
 
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
@@ -41,7 +41,7 @@ K-Means를 이용한 뇌 MRI Image Segmentation
   <img src="./images/HW4-4.png" width="30%" height="30%"/>
   <img src="./images/HW4-6.png" width="30%" height="30%"/>
 </p>
-<br><br><br><br>
+<br><br><br>
 
 GAN을 이용한 손글씨 Image 생성
 -------------
