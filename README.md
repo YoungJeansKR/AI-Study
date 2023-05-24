@@ -17,7 +17,7 @@ KNN을 이용한 손글씨 인식 with PCA
 -------------
 
 <br>
-- Training Data: 50000　Test Date: 10000
+- Training Data: 50000 Test Date: 10000
 - K = 5
 <br>
 
