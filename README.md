@@ -3,7 +3,7 @@ AI 머신러닝 및 딥러닝 학습 자료 포트폴리오 입니다. 학습이
 <br><br>
 - 기초 머신러닝
   - Linear Regression
-  - K-NN
+  - KNN
   - PCA
   - Support Vector Machine
   - K-Means
