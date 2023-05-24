@@ -57,13 +57,13 @@ CNN Fashion MNIST Data Label Shuffle
 - Test Data : 10000
 <br><br>
 
-<img src="./images/HW6-1.png" width="70%" height="100"/>
+<img src="./images/HW6-1.png" width="70%" height="80"/>
 
 - 정상실행 <br>
 - Accuracy : 90.51%
-<br><br>
+<br><br><br>
 
-<img src="./images/HW6-2.png" width="70%" height="100"/>
+<img src="./images/HW6-2.png" width="70%" height="80"/>
 
 - Label Shuffle (무작위) <br>
 - Accuracy : 10.93%
@@ -75,9 +75,11 @@ CNN Fashion MNIST Data Label Shuffle
 
 CNN Transfer Learning(Fine-Tune)
 -------------
-- Training Data : 5000 (Class당 500개, 충분한 훈련X) <br>
-- Test Data : 8000
-<br><br>
+- 부족한 Data Training
+  - Training Data : 5000 (Class당 500개 Data)
+  - Test Data : 8000
+  - Accuracy : 26.675%
+<br>
 
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="40%"/>
@@ -85,24 +87,25 @@ CNN Transfer Learning(Fine-Tune)
   <img src="./images/HW7-3.png" width="30%" height="40%"/>
 </p>
 
-- Accuracy : 26.675%
-<br><br><br><br>
+<br><br><br>
 
+- 충분한 Data Training
+  - Training Data : 50000
+  - Test Data : 10000
+  - Accuracy : 63.050%
+<br>
 
-- Training Data : 50000 <br>
-- Test Data : 10000 <br>
 <img src="./images/HW7-4.png" width="40%" height="40%"/>
+<br><br><br>
 
-- Accuracy : 63.050%
-<br><br><br><br>
-
-- 마지막 8번 FC Layer 교체 <br>
-- Training Data : 5000 <br>
-- Test Data : 8000 <br>
+- Transer Learning
+  - 마지막 8번 FC Layer 교체
+  - Training Data : 5000
+  - Test Data : 8000
+  - Accuracy : 60.193%
+<br>
 <img src="./images/HW7-5.png" width="40%" height="40%"/>
-
-- Accuracy : 60.193%
-<br><br><br><br>
+<br><br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
