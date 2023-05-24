@@ -126,5 +126,5 @@ GAN을 이용한 손글씨 Image 생성
 <img src="./images/HW8-3.png" width="60%" height="60%"/>
 
 - Generator에 의해 생성된 손글씨 Image
-  - 진짜 손글씨 이미지와 어느 정도 비슷한 이미지 생성 
+  - 진짜 손글씨 이미지와 어느 정도 비슷한 가짜 이미지 생성 
 <br><br><br>
