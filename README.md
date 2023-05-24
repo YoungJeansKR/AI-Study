@@ -55,13 +55,13 @@ CNN Fashion MNIST Data Label Shuffle
 -------------
 - Training Data : 60000
 - Test Data : 10000
-<br><br>
+<br><br><br>
 
 <img src="./images/HW6-1.png" width="70%" height="80"/>
 
 - 정상실행
 - Accuracy : 90.51%
-<br><br><br><br>
+<br><br><br>
 
 <img src="./images/HW6-2.png" width="70%" height="80"/>
 
@@ -75,30 +75,30 @@ CNN Fashion MNIST Data Label Shuffle
 
 CNN Transfer Learning(Fine-Tune)
 -------------
-- 부족한 Data Training
-  - Training Data : 5000 (Class당 500개 Data)
-  - Test Data : 8000
-  - Accuracy : 26.675%
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="40%"/>
   <img src="./images/HW7-2.png" width="30%" height="40%"/>
   <img src="./images/HW7-3.png" width="30%" height="40%"/>
 </p>
+- 부족한 Data Training
+  - Training Data : 5000 (Class당 500개 Data)
+  - Test Data : 8000
+  - Accuracy : 26.675%
 <br><br>
 
+<img src="./images/HW7-4.png" width="60%" height="50%"/>
 - 충분한 Data Training
   - Training Data : 50000
   - Test Data : 10000
   - Accuracy : 63.050%
-<img src="./images/HW7-4.png" width="40%" height="40%"/>
 <br><br>
 
+<img src="./images/HW7-5.png" width="60%" height="50%"/>
 - Transer Learning
   - 마지막 8번 FC Layer 교체
   - Training Data : 5000
   - Test Data : 8000
   - Accuracy : 60.193%
-<img src="./images/HW7-5.png" width="40%" height="40%"/>
 <br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
@@ -114,9 +114,10 @@ GAN을 이용한 손글씨 Image 생성
  <img src="./images/HW8-2.png" width="70%" height="100"/>
  
 - D(g(z)) 변화 관찰
+  - 올라갈수록 good
 <br><br><br><br>
 
-<img src="./images/HW8-3.png" width="40%" height="40%"/>
+<img src="./images/HW8-3.png" width="60%" height="60%"/>
 
 - Generator에 의해 생성된 손글씨 Image
 <br><br><br><br>
