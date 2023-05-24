@@ -57,13 +57,13 @@ CNN Fashion MNIST Data Label Shuffle
 - Test Data : 10000
 <br><br><br>
 
-<img src="./images/HW6-1.png" width="60%" height="75"/>
+<img src="./images/HW6-1.png" width="60%" height="70"/>
 
 - 정상실행
 - Accuracy : 90.51%
 <br><br><br>
 
-<img src="./images/HW6-2.png" width="60%" height="75"/>
+<img src="./images/HW6-2.png" width="60%" height="70"/>
 
 - Label Shuffle (무작위)
 - Accuracy : 10.93%
@@ -93,7 +93,7 @@ CNN Transfer Learning(Fine-Tune)
   - Training Data : 50000
   - Test Data : 10000
   - Accuracy : 63.050%
-<br><br>
+<br><br><br>
 
 <img src="./images/HW7-5.png" width="55%" height="45%"/>
 
@@ -102,7 +102,7 @@ CNN Transfer Learning(Fine-Tune)
   - Training Data : 5000
   - Test Data : 8000
   - Accuracy : 60.193%
-<br><br>
+<br><br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
