@@ -21,7 +21,7 @@ KNN을 이용한 손글씨 인식 with PCA
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-  <img src="./images/HW2-2.png" width="37%" height="45"/>　　
+  <img src="./images/HW2-2.png" width="37%" height="45"/>　　　　
   <img src="./images/HW3-2.png" width="37%" height="45"/>
 </p>
 <br><br><br>
