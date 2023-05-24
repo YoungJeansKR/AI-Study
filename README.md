@@ -86,7 +86,7 @@ CNN Transfer Learning(Fine-Tune)
   - Test Data : 8000
   - Accuracy : 26.675%
 
-<br><br><br>
+<br><br>
 
 <img src="./images/HW7-4.png" width="50%" height="40%"/>
 
@@ -95,7 +95,7 @@ CNN Transfer Learning(Fine-Tune)
   - Test Data : 10000
   - Accuracy : 63.050%
 
-<br><br><br>
+<br><br>
 
 <img src="./images/HW7-5.png" width="50%" height="150"/>
 
