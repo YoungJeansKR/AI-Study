@@ -17,7 +17,7 @@ KNN을 이용한 손글씨 인식 with PCA
 -------------
 - Training Data: 50000 Test Data: 10000 <br>
 - K = 5
-<br><br><br>
+<br><br>
 <p align="left">
   <img src="./images/HW2-1.png" width="40%" height="40%"/>　　　
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
@@ -33,7 +33,7 @@ KNN을 이용한 손글씨 인식 with PCA
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
 - K = 4 (4 Clusters)
-<br><br><br>
+<br><br>
 
 <p align="left">
   <img src="./images/HW4-1.png" width="30%" height="30%"/>
@@ -53,7 +53,7 @@ CNN MNIST Data Label Shuffle
 -------------
 - Training Data: 60000 <br>
 - Test Data: 10000
-<br><br><br>
+<br><br>
 
 <img src="./images/HW6-1.png" width="40%" height="45"/>
 <img src="./images/HW6-2.png" width="40%" height="45"/>
@@ -65,33 +65,38 @@ CNN Transfer Learning(Fine-Tune)
 -------------
 - Training Data: 5000 (Class당 500개, 충분한 훈련X) <br>
 - Test Data: 8000
-<br><br><br>
+<br><br>
 
-<img src="./images/HW7-1.png" width="40%" height="40%"/>
-<img src="./images/HW7-2.png" width="40%" height="40%"/>
-<img src="./images/HW7-3.png" width="40%" height="40%"/>
+<p align="left">
+  <img src="./images/HW7-1.png" width="40%" height="40%"/>
+  <img src="./images/HW7-2.png" width="40%" height="40%"/>
+  <img src="./images/HW7-3.png" width="40%" height="40%"/>
+</p>
+
+- Accuracy : 26.675%
+
 <img src="./images/HW7-4.png" width="40%" height="40%"/>
-<img src="./images/HW7-5.png" width="40%" height="40%"/>
-<br>
 - Training Data: 50000 <br>
 - Test Data 10000
-<br><br><br>
+- Accuracy : 63.050%
+<br><br>
 
-마지막 8번 FC Layer 교체
+<img src="./images/HW7-5.png" width="40%" height="40%"/>
 <br>
+- 마지막 8번 FC Layer 교체
+- Accuracy : 60.193%
 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
 
 GAN을 이용한 손글씨 Image 생성
 -------------
-
-<br>
 - Training Data: 60000 <br>
 - Test Data: 10000
-<br><br><br>
+<br><br>
 
 <img src="./images/HW8-1.png" width="40%" height="40%"/>
 <img src="./images/HW8-2.png" width="40%" height="40%"/>
 <img src="./images/HW8-3.png" width="40%" height="40%"/>
+- D(g(z)) 변화 관찰
 <br><br><br><br>
   
