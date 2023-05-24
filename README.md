@@ -34,7 +34,7 @@ KNN을 이용한 손글씨 인식 with PCA
 
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
-- K = 4 (Cluster 0~3)
+- K = 4 (Cluster 0-3)
 <br><br>
 
 <p align="left">
@@ -53,12 +53,12 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 
 CNN MNIST Data Label Shuffle
 -------------
-- Training Data: 60000 <br>
-- Test Data: 10000
+- Training Data : 60000 <br>
+- Test Data : 10000
 <br><br>
 
-<img src="./images/HW6-1.png" width="40%" height="45"/>
-<img src="./images/HW6-2.png" width="40%" height="45"/>
+<img src="./images/HW6-1.png" width="50%" height="60"/>
+<img src="./images/HW6-2.png" width="50%" height="60"/>
 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate)
@@ -80,32 +80,38 @@ CNN Transfer Learning(Fine-Tune)
 
 <img src="./images/HW7-4.png" width="40%" height="40%"/>
 
-- Training Data: 50000 <br>
-- Test Data 10000 <br>
+- Training Data : 50000 <br>
+- Test Data : 10000 <br>
 - Accuracy : 63.050%
 <br><br>
 
 <img src="./images/HW7-5.png" width="40%" height="40%"/>
 <br>
+
 - 마지막 8번 FC Layer 교체 <br>
-- Training Data: 5000 <br>
-- Test Data: 8000 <br>
+- Training Data : 5000 <br>
+- Test Data : 8000 <br>
 - Accuracy : 60.193%
 - <br>
+- 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
 
 GAN을 이용한 손글씨 Image 생성
 -------------
-- Training Data: 60000 <br>
-- Test Data: 10000
+- Training Data : 60000 <br>
+- Test Data : 10000
 <br><br>
 
-<img src="./images/HW8-1.png" width="40%" height="40%"/>
-<img src="./images/HW8-2.png" width="40%" height="40%"/>
-<img src="./images/HW8-3.png" width="40%" height="40%"/>
-<br>
-
+<p align="left">
+  <img src="./images/HW8-1.png" width="50%" height="60"/>
+  <img src="./images/HW8-2.png" width="50%" height="60"/>
+</p>
 - D(g(z)) 변화 관찰
+<br><br>
+
+<img src="./images/HW8-3.png" width="40%" height="40%"/>
+- Generator에 의해 생성된 손글씨 Image
+<br>
 <br><br><br><br>
   
