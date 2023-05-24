@@ -38,8 +38,8 @@ K-Means를 이용한 뇌 MRI Image Segmentation
   <img src="./images/HW4-5.png" width="30%" height="30%"/>
 </p>
 <p align="left">
-  <img src="./images/HW4-1.png" width="30%" height="30%"/>
-  <img src="./images/HW4-1.png" width="30%" height="30%"/>
+  <img src="./images/HW4-4.png" width="30%" height="30%"/>
+  <img src="./images/HW4-6.png" width="30%" height="30%"/>
 </p>
 <br><br><br><br>
 
