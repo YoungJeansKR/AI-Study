@@ -73,7 +73,7 @@ CNN Fashion MNIST Data Label Shuffle
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate)
 <br><br><br>
 
-CNN Transfer Learning(Fine-Tune)
+CNN Transfer Learning(Fine-Tuning)
 -------------
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="40%"/>
