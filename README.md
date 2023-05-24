@@ -11,7 +11,7 @@ Linear Regression을 이용한 당뇨병 예측
   <img src="./images/HW1-1.png" width="40%" height="40%"/>
   <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
-<br><br><br>
+<br><br>
 
 KNN을 이용한 손글씨 인식 with PCA
 -------------
@@ -49,7 +49,7 @@ K-Means를 이용한 뇌 MRI Image Segmentation
   <img src="./images/HW4-4.png" width="30%" height="30%"/>
   <img src="./images/HW4-6.png" width="30%" height="30%"/>
 </p>
-<br><br><br>
+<br><br>
 
 CNN Fashion MNIST Data Label Shuffle
 -------------
@@ -57,14 +57,17 @@ CNN Fashion MNIST Data Label Shuffle
 - Test Data : 10000
 <br><br>
 
-<img src="./images/HW6-1.png" width="60%" height="100"/>
-- 정상실행
+<img src="./images/HW6-1.png" width="70%" height="100"/>
+
+- 정상실행 <br>
 - Accuracy : 90.51%
 <br><br>
 
-<img src="./images/HW6-2.png" width="60%" height="100"/>
-- Label Shuffle (무작위)
+<img src="./images/HW6-2.png" width="70%" height="100"/>
+
+- Label Shuffle (무작위) <br>
 - Accuracy : 10.93%
+<br><br>
 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate)
@@ -81,20 +84,23 @@ CNN Transfer Learning(Fine-Tune)
   <img src="./images/HW7-2.png" width="30%" height="40%"/>
   <img src="./images/HW7-3.png" width="30%" height="40%"/>
 </p>
+
 - Accuracy : 26.675%
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 - Training Data : 50000 <br>
 - Test Data : 10000 <br>
 <img src="./images/HW7-4.png" width="40%" height="40%"/>
+
 - Accuracy : 63.050%
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 - 마지막 8번 FC Layer 교체 <br>
 - Training Data : 5000 <br>
 - Test Data : 8000 <br>
 <img src="./images/HW7-5.png" width="40%" height="40%"/>
+
 - Accuracy : 60.193%
 <br><br><br><br>
 
@@ -107,14 +113,14 @@ GAN을 이용한 손글씨 Image 생성
 - Test Data : 10000
 <br><br>
 
-<p align="left">
-  <img src="./images/HW8-1.png" width="45%" height="60"/>
-  <img src="./images/HW8-2.png" width="45%" height="60"/>
-</p>
+ <img src="./images/HW8-1.png" width="70%" height="100"/>
+ <img src="./images/HW8-2.png" width="70%" height="100"/>
+ 
 - D(g(z)) 변화 관찰
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <img src="./images/HW8-3.png" width="40%" height="40%"/>
+
 - Generator에 의해 생성된 손글씨 Image
 <br><br><br><br>
   
