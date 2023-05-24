@@ -105,7 +105,7 @@ CNN Transfer Learning(Fine-Tune)
   - Test Data : 8000
   - Accuracy : 60.193%
 
-<br><br>
+<br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
