@@ -58,13 +58,11 @@ CNN Fashion MNIST Data Label Shuffle
 <br><br>
 
 <img src="./images/HW6-1.png" width="70%" height="80"/>
-
 - 정상실행 <br>
 - Accuracy : 90.51%
 <br><br><br>
 
 <img src="./images/HW6-2.png" width="70%" height="80"/>
-
 - Label Shuffle (무작위) <br>
 - Accuracy : 10.93%
 <br><br>
