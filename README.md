@@ -17,8 +17,8 @@ KNN을 이용한 손글씨 인식 with PCA
 -------------
 
 <br>
-- Training Data: 50000 Test Date: 10000
-- K = 5
+  - Training Data: 50000 Test Date: 10000
+  - K = 5
 <br>
 
 <p align="left">
@@ -29,8 +29,8 @@ KNN을 이용한 손글씨 인식 with PCA
 　<img src="./images/HW2-2.png" width="37%" height="45"/>　　　　　　
   <img src="./images/HW3-2.png" width="37%" height="45"/>
 </p>
-KNN VS PCA 차원축소
-run time, Accuracy 차이 비교 -> 유의미한 결과 도출
+- KNN VS PCA 차원축소
+  - run time, Accuracy 차이 비교 -> 유의미한 결과 도출
 <br><br><br>
 
 K-Means를 이용한 뇌 MRI Image Segmentation
