@@ -36,7 +36,9 @@ KNN을 이용한 손글씨 인식 with PCA
 K-Means를 이용한 뇌 MRI Image Segmentation
 -------------
 <br>
-* K = 4(Cluster 개수 = 4)
+- K = 4(Cluster 개수 = 4)
+<br>
+
 <p align="left">
   <img src="./images/HW4-1.png" width="30%" height="30%"/>
   <img src="./images/HW4-2.png" width="30%" height="30%"/>
@@ -51,14 +53,32 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 </p>
 <br><br><br>
 
-Transfer Learning
+CNN MNIST Data Label Shuffle
 -------------
 <br>
+<img src="./images/HW6-1.png" width="40%" height="40%"/>
+<img src="./images/HW6-2.png" width="40%" height="40%"/>
+<br><br><br>
+
+CNN Transfer Learning(Fine-Tune)
+-------------
+<br>
+<img src="./images/HW7-1.png" width="40%" height="40%"/>
+<img src="./images/HW7-2.png" width="40%" height="40%"/>
+<img src="./images/HW7-3.png" width="40%" height="40%"/>
+<img src="./images/HW7-4.png" width="40%" height="40%"/>
+<img src="./images/HW7-5.png" width="40%" height="40%"/>
 <br><br><br>
 
 GAN을 이용한 손글씨 Image 생성
 -------------
+
 <br>
-<img src="./images/GAN.png" width="40%" height="40%"/>
+- Training Data: 60000 Test Date: 10000
+<br>
+
+<img src="./images/HW8-1.png" width="40%" height="40%"/>
+<img src="./images/HW8-2.png" width="40%" height="40%"/>
+<img src="./images/HW8-3.png" width="40%" height="40%"/>
 <br><br><br><br>
   
