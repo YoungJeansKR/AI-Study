@@ -85,7 +85,8 @@ CNN Transfer Learning(Fine-Tune)
   - Training Data : 5000 (Class당 500개 Data)
   - Test Data : 8000
   - Accuracy : 26.675%
-<br><br>
+
+<br><br><br>
 
 <img src="./images/HW7-4.png" width="55%" height="45%"/>
 
@@ -93,15 +94,17 @@ CNN Transfer Learning(Fine-Tune)
   - Training Data : 50000
   - Test Data : 10000
   - Accuracy : 63.050%
+
 <br><br><br>
 
-<img src="./images/HW7-5.png" width="55%" height="45%"/>
+<img src="./images/HW7-5.png" width="55%" height="40%"/>
 
 - Transer Learning
   - 마지막 8번 FC Layer 교체
   - Training Data : 5000
   - Test Data : 8000
   - Accuracy : 60.193%
+
 <br><br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
