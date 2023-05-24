@@ -15,7 +15,8 @@ Linear Regression을 이용한 당뇨병 예측
 
 KNN을 이용한 손글씨 인식 with PCA
 -------------
-- Training Data: 50000 Test Data: 10000 <br>
+- Training Data : 50000 <br>
+- Test Data : 10000 <br>
 - K = 5
 <br><br>
 <p align="left">
