@@ -107,7 +107,7 @@ CNN Transfer Learning(Fine-Tune)
 
 <br>
 
-- 결과 : Accuracy 향상 -> 유의미한 결과 도출
+- 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 <br><br>
 
 GAN을 이용한 손글씨 Image 생성
