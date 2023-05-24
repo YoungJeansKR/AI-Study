@@ -86,7 +86,7 @@ CNN Fashion MNIST Data Label Shuffle
 <br><br><br>
 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
-  - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate)
+  - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate Check)
 <br><br><br>
 
 CNN Transfer Learning(Fine-Tuning)
