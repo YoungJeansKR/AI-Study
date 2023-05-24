@@ -53,19 +53,21 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 
 CNN Fashion MNIST Data Label Shuffle
 -------------
-- Training Data : 60000 <br>
+- Training Data : 60000
 - Test Data : 10000
 <br><br>
 
 <img src="./images/HW6-1.png" width="70%" height="80"/>
-- 정상실행 <br>
+
+- 정상실행
 - Accuracy : 90.51%
-<br><br><br>
+<br><br><br><br>
 
 <img src="./images/HW6-2.png" width="70%" height="80"/>
-- Label Shuffle (무작위) <br>
+
+- Label Shuffle (무작위)
 - Accuracy : 10.93%
-<br><br>
+<br><br><br>
 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate)
@@ -77,33 +79,27 @@ CNN Transfer Learning(Fine-Tune)
   - Training Data : 5000 (Class당 500개 Data)
   - Test Data : 8000
   - Accuracy : 26.675%
-<br>
-
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="40%"/>
   <img src="./images/HW7-2.png" width="30%" height="40%"/>
   <img src="./images/HW7-3.png" width="30%" height="40%"/>
 </p>
-
-<br><br><br>
+<br><br>
 
 - 충분한 Data Training
   - Training Data : 50000
   - Test Data : 10000
   - Accuracy : 63.050%
-<br>
-
 <img src="./images/HW7-4.png" width="40%" height="40%"/>
-<br><br><br>
+<br><br>
 
 - Transer Learning
   - 마지막 8번 FC Layer 교체
   - Training Data : 5000
   - Test Data : 8000
   - Accuracy : 60.193%
-<br>
 <img src="./images/HW7-5.png" width="40%" height="40%"/>
-<br><br><br>
+<br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
