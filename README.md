@@ -105,7 +105,7 @@ CNN Transfer Learning(Fine-Tune)
   - Test Data : 8000
   - Accuracy : 60.193%
 
-<br><br><br>
+<br><br>
 
 - 결과 : Accuracy 향상 -> 유의미한 결과 도출
 <br><br><br>
@@ -120,7 +120,7 @@ GAN을 이용한 손글씨 Image 생성
  <img src="./images/HW8-2.png" width="70%" height="100"/>
  
 - D(g(z)) 변화 관찰
-  - 올라갈수록 good
+  - D(g(z) 수치가 향상될수록 good
 <br><br><br><br>
 
 <img src="./images/HW8-3.png" width="60%" height="60%"/>
