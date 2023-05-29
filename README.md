@@ -20,7 +20,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - Transfer Learning
 <br><br>
 
-Linear Regression을 이용한 당뇨병 예측
+Linear Regression을 이용한 당뇨병 Regression
 -------------
 <br>
 <p align="left">
