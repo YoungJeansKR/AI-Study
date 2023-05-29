@@ -31,8 +31,8 @@ Linear Regression을 이용한 당뇨병 예측
 
 KNN을 이용한 손글씨 인식 with PCA
 -------------
-- Training Data : 50000 <br>
-- Test Data : 10000 <br>
+- Train : 50,000 images
+- Test : 10,000 images
 - K = 5
 <br><br>
 <p align="left">
@@ -69,8 +69,8 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 
 CNN Fashion MNIST Data Label Shuffle
 -------------
-- Training Data : 60000
-- Test Data : 10000
+- Train : 60,000 images
+- Test : 10,000 images
 <br><br><br>
 
 <img src="./images/HW6-1.png" width="60%" height="30%"/>
@@ -98,8 +98,8 @@ CNN Transfer Learning(Fine-Tuning)
 </p>
 
 - 부족한 Data Training
-  - Training Data : 5000 (Class당 500개 Data)
-  - Test Data : 8000
+  - Train : 5,000 images (Class당 500 images)
+  - Test : 8,000 images
   - Accuracy : 26.675%
 
 <br><br>
@@ -107,8 +107,8 @@ CNN Transfer Learning(Fine-Tuning)
 <img src="./images/HW7-4.png" width="50%" height="40%"/>
 
 - 충분한 Data Training
-  - Training Data : 50000
-  - Test Data : 10000
+  - Train: 50,000 images
+  - Test : 10,000 images
   - Accuracy : 63.050%
 
 <br><br>
@@ -117,8 +117,8 @@ CNN Transfer Learning(Fine-Tuning)
 
 - Transer Learning
   - 마지막 8번 FC Layer 교체
-  - Training Data : 5000
-  - Test Data : 8000
+  - Train : 5,000 images
+  - Test: 8,000 images
   - Accuracy : 60.193%
 
 <br>
@@ -128,8 +128,8 @@ CNN Transfer Learning(Fine-Tuning)
 
 GAN을 이용한 손글씨 Image 생성
 -------------
-- Training Data : 60000 <br>
-- Test Data : 10000
+- Train : 60,000 images
+- Test : 10,000 images
 <br><br>
 
  <img src="./images/HW8-1.png" width="70%" height="100"/>
@@ -141,6 +141,6 @@ GAN을 이용한 손글씨 Image 생성
 
 <img src="./images/HW8-3.png" width="60%" height="60%"/>
 
-- Generator에 의해 생성된 손글씨 Image
+- Generator에 의해 생성된 손글씨 images
   - 진짜 손글씨 이미지와 어느 정도 비슷한 가짜 이미지 생성 
 <br><br><br>
