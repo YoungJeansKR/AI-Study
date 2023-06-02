@@ -2,7 +2,7 @@
 
 AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 진행되는대로 순차적으로 업로드 하겠습니다.
 
-<br/><br/>
+<br/>
 
 - Machine Learning
   - Linear Regression
