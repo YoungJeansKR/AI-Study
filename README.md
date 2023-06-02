@@ -113,7 +113,7 @@ CNN Transfer Learning(Fine-Tuning)
 
 <br><br>
 
-<img src="./images/HW7-5.png" width="50%" height="150"/>
+<img src="./images/HW7-5.png" width="50%" height="170"/>
 
 - Transer Learning
   - 마지막 8번 FC Layer 교체
