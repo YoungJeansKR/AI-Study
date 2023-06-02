@@ -67,7 +67,7 @@ Brain MRI Image Segmentation With K-Means
 </p>
 <br><br>
 
-Fashion MNIST With CNN & Data Label Random Shuffle
+Fashion MNIST Classification With CNN & Data Label Random Shuffle
 -------------
 - Train : 60,000 images
 - Test : 10,000 images
@@ -126,7 +126,7 @@ Transfer Learning With CNN (Fine-Tuning)
 - 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 <br><br>
 
-MNIST Generation With GAN
+MNIST Images Generation With GAN
 -------------
 - Train : 60,000 images
 - Test : 10,000 images
