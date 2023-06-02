@@ -94,7 +94,7 @@ Transfer Learning With CNN (Fine-Tuning)
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="20%"/>
   <img src="./images/HW7-2.png" width="30%" height="20%"/>
-  <img src="./images/HW7-3.png" width="30%" height="170"/>
+  <img src="./images/HW7-3.png" width="30%" height="180"/>
 </p>
 
 - 부족한 Data Training
