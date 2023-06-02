@@ -20,8 +20,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - Transfer Learning
 <br><br>
 
-Diabetes Prediction With Linear Regression
--------------
+## Diabetes Prediction With Linear Regression
 <br>
 <p align="left">
   <img src="./images/HW1-1.png" width="40%" height="40%"/>
