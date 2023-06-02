@@ -9,11 +9,13 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - PCA
   - Support Vector Machine
   - K-Means
+
 - Deep Learning
   - CNN
   - RNN
   - Generative Model
   - Reinforcement Learning
+
 - Optimization & Regularization
   - Labelling
   - Paramater
