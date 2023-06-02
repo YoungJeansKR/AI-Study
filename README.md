@@ -21,14 +21,15 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 <br><br>
 
 ## Diabetes Prediction With Linear Regression
+
 <p align="left">
   <img src="./images/HW1-1.png" width="40%" height="40%"/>
   <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
 <br><br>
 
-MNIST Classification With KNN, PCA
--------------
+## MNIST Classification With KNN, PCA
+
 - Train : 50,000 images
 - Test : 10,000 images
 - K = 5
@@ -46,8 +47,8 @@ MNIST Classification With KNN, PCA
   - Run Time, Accuracy 차이 비교 -> 유의미한 결과 도출
 <br><br><br>
 
-Brain MRI Image Segmentation With K-Means
--------------
+## Brain MRI Image Segmentation With K-Means
+
 - K = 4 (Cluster 0-3)
 <br><br>
 
@@ -65,8 +66,8 @@ Brain MRI Image Segmentation With K-Means
 </p>
 <br><br>
 
-Fashion MNIST Classification With CNN & Data Label Random Shuffle
--------------
+## Fashion MNIST Classification With CNN & Data Label Random Shuffle
+
 - Train : 60,000 images
 - Test : 10,000 images
 <br><br><br>
@@ -87,8 +88,8 @@ Fashion MNIST Classification With CNN & Data Label Random Shuffle
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
 <br><br><br>
 
-Transfer Learning With CNN (Fine-Tuning)
--------------
+## Transfer Learning With CNN (Fine-Tuning)
+
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="20%"/>
   <img src="./images/HW7-2.png" width="30%" height="20%"/>
@@ -124,8 +125,8 @@ Transfer Learning With CNN (Fine-Tuning)
 - 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 <br><br>
 
-MNIST Image Generation With GAN
--------------
+## MNIST Image Generation With GAN
+
 - Train : 60,000 images
 - Test : 10,000 images
 <br><br>
