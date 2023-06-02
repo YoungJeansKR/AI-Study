@@ -133,7 +133,7 @@ GAN을 이용한 손글씨 Image 생성
 <br><br>
 
  <img src="./images/HW8-2.png" width="70%" height="100"/>
- <img src="./images/HW8-0.png" width="70%" height="100"/>
+ <img src="./images/HW8-1.png" width="70%" height="100"/>
  
 - D(g(z)) 변화 관찰
   - D(g(z) 수치가 향상될수록 good
