@@ -1,18 +1,18 @@
 # AI-Study
 AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 진행되는대로 순차적으로 업로드 하겠습니다.
 <br><br>
-- 기초 머신러닝
+- Machine Learning
   - Linear Regression
   - KNN
   - PCA
   - Support Vector Machine
   - K-Means
-- 딥러닝
+- Deep Learning
   - CNN
   - RNN
   - Generative Model
   - Reinforcement Learning
-- 최적화 및 정규화
+- Optimization & Regularization
   - Labelling
   - Paramater
   - Activation Function
@@ -20,7 +20,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - Transfer Learning
 <br><br>
 
-Linear Regression을 이용한 당뇨병 Regression
+Diabetes Prediction With Linear Regression
 -------------
 <br>
 <p align="left">
@@ -29,7 +29,7 @@ Linear Regression을 이용한 당뇨병 Regression
 </p>
 <br><br>
 
-KNN을 이용한 손글씨 인식 with PCA
+MNIST Classification With KNN, PCA
 -------------
 - Train : 50,000 images
 - Test : 10,000 images
@@ -48,7 +48,7 @@ KNN을 이용한 손글씨 인식 with PCA
   - Run Time, Accuracy 차이 비교 -> 유의미한 결과 도출
 <br><br><br>
 
-K-Means를 이용한 뇌 MRI Image Segmentation
+Brain MRI Image Segmentation With K-Means
 -------------
 - K = 4 (Cluster 0-3)
 <br><br>
@@ -67,7 +67,7 @@ K-Means를 이용한 뇌 MRI Image Segmentation
 </p>
 <br><br>
 
-CNN Fashion MNIST Data Label Shuffle
+Fashion MNIST With CNN & Data Label Random Shuffle
 -------------
 - Train : 60,000 images
 - Test : 10,000 images
@@ -89,7 +89,7 @@ CNN Fashion MNIST Data Label Shuffle
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
 <br><br><br>
 
-CNN Transfer Learning(Fine-Tuning)
+Transfer Learning With CNN (Fine-Tuning)
 -------------
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="40%"/>
@@ -126,7 +126,7 @@ CNN Transfer Learning(Fine-Tuning)
 - 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 <br><br>
 
-GAN을 이용한 손글씨 Image 생성
+MNIST Generation With GAN
 -------------
 - Train : 60,000 images
 - Test : 10,000 images
