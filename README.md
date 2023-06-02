@@ -2,7 +2,7 @@
 
 AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 진행되는대로 순차적으로 업로드 하겠습니다.
 
-<br/>
+<br/><br/>
 
 - Machine Learning
   - Linear Regression
@@ -22,7 +22,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - Data Augmentation
   - Transfer Learning
 
-<br/>
+<br/><br/>
 
 ## Diabetes Prediction With Linear Regression
 
@@ -31,7 +31,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
 
-<br/>
+<br/><br/>
 
 ## MNIST Classification With KNN, PCA
 
@@ -39,7 +39,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 - Test : 10,000 images
 - K = 5
 
-<br/>
+<br/><br/>
 
 <p align="left">
   <img src="./images/HW2-1.png" width="40%" height="40%"/>　　　
@@ -53,7 +53,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 - KNN VS PCA 차원축소
   - Run Time, Accuracy 차이 비교 >> 유의미한 결과 도출
 
-<br/>
+<br/><br/>
 
 ## Brain MRI Image Segmentation With K-Means
 
@@ -74,7 +74,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   <img src="./images/HW4-6.png" width="30%" height="30%"/>
 </p>
 
-<br/>
+<br/><br/>
 
 ## Fashion MNIST Classification With CNN & Data Label Random Shuffle
 
@@ -100,7 +100,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
 
-<br/>
+<br/><br/>
 
 ## Transfer Learning With CNN (Fine-Tuning)
 
@@ -138,7 +138,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 
 - 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 
-<br/>
+<br/><br/>
 
 ## MNIST Image Generation With GAN
 
