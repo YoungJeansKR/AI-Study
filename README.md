@@ -22,12 +22,16 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   - Data Augmentation
   - Transfer Learning
 
+<br/>
+
 ## Diabetes Prediction With Linear Regression
 
 <p align="left">
   <img src="./images/HW1-1.png" width="40%" height="40%"/>
   <img src="./images/HW1-2.png" width="40%" height="40%"/>
 </p>
+
+<br/>
 
 ## MNIST Classification With KNN, PCA
 
@@ -49,6 +53,8 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 - KNN VS PCA 차원축소
   - Run Time, Accuracy 차이 비교 >> 유의미한 결과 도출
 
+<br/>
+
 ## Brain MRI Image Segmentation With K-Means
 
 - K = 4 (Cluster 0-3)
@@ -67,6 +73,8 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
   <img src="./images/HW4-5.png" width="30%" height="30%"/>
   <img src="./images/HW4-6.png" width="30%" height="30%"/>
 </p>
+
+<br/>
 
 ## Fashion MNIST Classification With CNN & Data Label Random Shuffle
 
@@ -91,6 +99,8 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 
 - 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다 <br>
   - 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
+
+<br/>
 
 ## Transfer Learning With CNN (Fine-Tuning)
 
@@ -128,6 +138,8 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 
 - 결과 : 충분한 데이터 모델을 Pre-Training 시키고 다시 훈련 시 Accuracy 향상 -> 유의미한 결과 도출
 
+<br/>
+
 ## MNIST Image Generation With GAN
 
 - Train : 60,000 images
@@ -147,3 +159,5 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 
 - Generator에 의해 생성된 손글씨 images
   - 진짜 손글씨 이미지와 어느 정도 비슷한 가짜 이미지 생성
+
+<br/>
