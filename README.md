@@ -39,7 +39,7 @@ AI 머신러닝 및 딥러닝 학습자료 포트폴리오 입니다. 학습이 
 - Test : 10,000 images
 - K = 5
 
-<br/><br/>
+<br/>
 
 <p align="left">
   <img src="./images/HW2-1.png" width="40%" height="40%"/>　　　
