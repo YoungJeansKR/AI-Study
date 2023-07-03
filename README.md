@@ -65,12 +65,12 @@
 * Train : 60,000 images
 * Test : 10,000 images
 
-<img src="./images/HW6-1.png" width="85%" height="85%"/>
+<img src="./images/HW6-1.png" width="80%" height="80%"/>
 
 * 정상실행
   * Accuracy : 90.51%
 
-<img src="./images/HW6-2.png" width="85%" height="85%"/>
+<img src="./images/HW6-2.png" width="80%" height="80%"/>
 
 * Label Shuffle (무작위)
   * Accuracy : 10.93%
@@ -113,8 +113,8 @@
 * Train : 60,000 images
 * Test : 10,000 images
 
- <img src="./images/HW8-2.png" width="85%" height="85%"/>
- <img src="./images/HW8-1.png" width="85%" height="85%"/>
+ <img src="./images/HW8-2.png" width="80%" height="80%"/>
+ <img src="./images/HW8-1.png" width="80%" height="80%"/>
  
 * D(g(z)) 변화 관찰
   * D(g(z) 수치가 향상될수록 good
