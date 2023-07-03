@@ -66,12 +66,10 @@
 * Test : 10,000 images
 
 <img src="./images/HW6-1.png" width="80%" height="80%"/>
+<img src="./images/HW6-2.png" width="80%" height="80%"/>
 
 * 정상실행
   * Accuracy : 90.51%
-
-<img src="./images/HW6-2.png" width="80%" height="80%"/>
-
 * Label Shuffle (무작위)
   * Accuracy : 10.93%
 
@@ -81,8 +79,7 @@
 ## Transfer Learning With CNN (Fine-Tuning)
 
 <p align="left">
-  <img src="./images/HW7-1.png" width="30%" height="20%"/>
-  <img src="./images/HW7-2.png" width="30%" height="20%"/>
+  <img src="./images/HW7-1.png" width="70%" height="70%"/>
   <img src="./images/HW7-3.png" width="30%" height="100%"/>
 </p>
 
