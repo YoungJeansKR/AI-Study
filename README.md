@@ -36,8 +36,8 @@
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-　<img src="./images/HW2-2.png" width="37%" height="45"/>　　　　　　
-  <img src="./images/HW3-2.png" width="37%" height="45"/>
+　<img src="./images/HW2-2.png" width="37%" height="100%"/>　　　　　　
+  <img src="./images/HW3-2.png" width="37%" height="100%"/>
 </p>
 
 * KNN VS PCA 차원축소
@@ -83,7 +83,7 @@
 <p align="left">
   <img src="./images/HW7-1.png" width="30%" height="20%"/>
   <img src="./images/HW7-2.png" width="30%" height="20%"/>
-  <img src="./images/HW7-3.png" width="30%" height="180"/>
+  <img src="./images/HW7-3.png" width="30%" height="100%"/>
 </p>
 
 * 부족한 Data Training
@@ -98,7 +98,7 @@
   * Test : 10,000 images
   * Accuracy : 63.050%
 
-<img src="./images/HW7-5.png" width="50%" height="170"/>
+<img src="./images/HW7-5.png" width="50%" height="100%"/>
 
 * Transer Learning
   * 마지막 8번 FC Layer 교체
@@ -113,8 +113,8 @@
 * Train : 60,000 images
 * Test : 10,000 images
 
- <img src="./images/HW8-2.png" width="70%" height="100"/>
- <img src="./images/HW8-1.png" width="70%" height="100"/>
+ <img src="./images/HW8-2.png" width="70%" height="100%"/>
+ <img src="./images/HW8-1.png" width="70%" height="100%"/>
  
 * D(g(z)) 변화 관찰
   * D(g(z) 수치가 향상될수록 good
