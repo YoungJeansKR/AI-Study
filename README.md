@@ -69,7 +69,6 @@
 
 <img src="./images/HW6-1.png" width="80%" height="80%"/>
 <img src="./images/HW6-2.png" width="80%" height="80%"/>
-
 * 정상실행
   * Accuracy : 90.51%
 * Label Shuffle (무작위)
@@ -87,7 +86,6 @@
 <br/>
 
 <img src="./images/HW7-3.png" width="45%" height="45%"/>
-
 * 부족한 Data Training
   * Train : 5,000 images (Class당 500 images)
   * Test : 8,000 images
@@ -96,7 +94,6 @@
 <br/>
 
 <img src="./images/HW7-4.png" width="50%" height="50%"/>
-
 * 충분한 Data Training
   * Train : 50,000 images
   * Test : 10,000 images
@@ -105,7 +102,6 @@
 <br/>
 
 <img src="./images/HW7-5.png" width="45%" height="45%"/>
-
 * Transer Learning
   * 마지막 8번 FC Layer 교체
   * Train : 5,000 images
@@ -123,7 +119,7 @@
 
  <img src="./images/HW8-2.png" width="80%" height="80%"/>
  <img src="./images/HW8-1.png" width="80%" height="80%"/>
- 
+
 * D(g(z)) 변화 관찰
   * D(g(z) 수치가 향상될수록 good
 
