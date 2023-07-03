@@ -93,7 +93,7 @@
   * Test : 8,000 images
   * Accuracy : 26.675%
 
-<br/><br/>
+<br/>
 
 <img src="./images/HW7-4.png" width="50%" height="50%"/>
 
@@ -102,7 +102,7 @@
   * Test : 10,000 images
   * Accuracy : 63.050%
 
-<br/><br/>
+<br/>
 
 <img src="./images/HW7-5.png" width="45%" height="45%"/>
 
