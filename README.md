@@ -95,7 +95,7 @@
 
 <br/>
 
-<img src="./images/HW7-4.png" width="50%" height="50%"/>
+<img src="./images/HW7-4.png" width="47%" height="47%"/>
 
 * 충분한 Data Training
   * Train : 50,000 images
