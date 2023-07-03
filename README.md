@@ -65,12 +65,12 @@
 * Train : 60,000 images
 * Test : 10,000 images
 
-<img src="./images/HW6-1.png" width="60%" height="30%"/>
+<img src="./images/HW6-1.png" width="80%" height="50%"/>
 
 * 정상실행
   * Accuracy : 90.51%
 
-<img src="./images/HW6-2.png" width="60%" height="30%"/>
+<img src="./images/HW6-2.png" width="80%" height="50%"/>
 
 * Label Shuffle (무작위)
   * Accuracy : 10.93%
