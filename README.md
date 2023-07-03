@@ -65,6 +65,8 @@
 * Train : 60,000 images
 * Test : 10,000 images
 
+<br/>
+
 <img src="./images/HW6-1.png" width="80%" height="80%"/>
 <img src="./images/HW6-2.png" width="80%" height="80%"/>
 
@@ -73,20 +75,25 @@
 * Label Shuffle (무작위)
   * Accuracy : 10.93%
 
+<br/>
+
 * 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다
   * 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
 
 ## Transfer Learning With CNN (Fine-Tuning)
 
-<p align="left">
-  <img src="./images/HW7-1.png" width="80%" height="80%"/>
-  <img src="./images/HW7-3.png" width="50%" height="50%"/>
-</p>
+<img src="./images/HW7-1.png" width="80%" height="80%"/>
+
+<br/>
+
+<img src="./images/HW7-3.png" width="45%" height="45%"/>
 
 * 부족한 Data Training
   * Train : 5,000 images (Class당 500 images)
   * Test : 8,000 images
   * Accuracy : 26.675%
+
+<br/>
 
 <img src="./images/HW7-4.png" width="50%" height="50%"/>
 
@@ -95,7 +102,9 @@
   * Test : 10,000 images
   * Accuracy : 63.050%
 
-<img src="./images/HW7-5.png" width="50%" height="50%"/>
+<br/>
+
+<img src="./images/HW7-5.png" width="45%" height="45%"/>
 
 * Transer Learning
   * 마지막 8번 FC Layer 교체
@@ -115,6 +124,8 @@
  
 * D(g(z)) 변화 관찰
   * D(g(z) 수치가 향상될수록 good
+
+<br/>
 
 <img src="./images/HW8-3.png" width="60%" height="60%"/>
 
