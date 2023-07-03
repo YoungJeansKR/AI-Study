@@ -36,8 +36,8 @@
   <img src="./images/HW3-1.png" width="40%" height="40%"/>
 </p>
 <p align="left">
-　<img src="./images/HW2-2.png" width="37%" height="30%"/>　　　　　　
-  <img src="./images/HW3-2.png" width="37%" height="30%"/>
+　<img src="./images/HW2-2.png" width="30%" height="30%"/>　　　　　　
+  <img src="./images/HW3-2.png" width="30%" height="30%"/>
 </p>
 
 * KNN VS PCA 차원축소
