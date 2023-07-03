@@ -86,7 +86,7 @@
 
 <br/>
 
-<img src="./images/HW7-3.png" width="45%" height="45%"/>
+<img src="./images/HW7-3.png" width="40%" height="40%"/>
 
 * 부족한 Data Training
   * Train : 5,000 images (Class당 500 images)
