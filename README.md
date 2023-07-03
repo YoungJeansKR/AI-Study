@@ -79,8 +79,8 @@
 ## Transfer Learning With CNN (Fine-Tuning)
 
 <p align="left">
-  <img src="./images/HW7-1.png" width="70%" height="70%"/>
-  <img src="./images/HW7-3.png" width="30%" height="100%"/>
+  <img src="./images/HW7-1.png" width="80%" height="80%"/>
+  <img src="./images/HW7-3.png" width="50%" height="50%"/>
 </p>
 
 * 부족한 Data Training
@@ -88,14 +88,14 @@
   * Test : 8,000 images
   * Accuracy : 26.675%
 
-<img src="./images/HW7-4.png" width="50%" height="40%"/>
+<img src="./images/HW7-4.png" width="50%" height="50%"/>
 
 * 충분한 Data Training
   * Train : 50,000 images
   * Test : 10,000 images
   * Accuracy : 63.050%
 
-<img src="./images/HW7-5.png" width="50%" height="100%"/>
+<img src="./images/HW7-5.png" width="50%" height="50%"/>
 
 * Transer Learning
   * 마지막 8번 FC Layer 교체
