@@ -16,7 +16,7 @@
   * Paramater
   * Activation Function
   * Data Augmentation
-  * Transfer Learning
+  * Transfer Learning (Fine-Tune)
 
 ## Diabetes Prediction With Linear Regression
 
@@ -80,7 +80,7 @@
 * 결론 : Data를 잘못 설정해도 Loss는 조금씩 떨어지고 정확도는 조금씩 올라간다
   * 만약 Loss 자체가 떨어지지 않는다면 Optimizer 문제 (Learning Rate 체크)
 
-## Transfer Learning With CNN (Fine-Tuning)
+## Transfer Learning With CNN (Fine-Tune)
 
 <img src="./images/HW7-1.png" width="80%" height="80%"/>
 
