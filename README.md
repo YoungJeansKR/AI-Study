@@ -1,4 +1,4 @@
-## Index
+## Contents
 
 * Machine Learning
   * Linear Regression
