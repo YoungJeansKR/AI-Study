@@ -1,5 +1,5 @@
 ## Contents
-d
+
 * Machine Learning
   * Linear Regression
   * KNN
